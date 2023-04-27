@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡Actualmente, estoy enfocado en convertirme en desarrollador full-stack.<br><br>💻Back-end de .NET y Java.<br><br>Tecnólogo en Informática  Universidad Minuto de Dios 💙<br>Estudiante del proyecto MisionTic 2022 - Universidad Sergio Arboleda 💛<br>Estudiante de Platzi 💚<br><br>🔭Desarrollador de sotfware en la empresa PlS System SAS.<br>
+⚡Actualmente, estoy enfocado en convertirme en desarrollador full-stack.<br><br>💻Back-end de .NET y Java.<br><br>Tecnólogo en Informática  Universidad Minuto de Dios 💙<br>Estudiante del proyecto MisionTic 2022 - Universidad Sergio Arboleda 💛<br>Estudiante de Platzi 💚<br><br>🔭Desarrollador de sotfware en la empresa PLS System SAS.<br>
 
 
 ## 🌐 Socials:
